@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YoctoApps</title>
+    <link>https://ryanmccardle.github.io/yoctoapps/index.xml</link>
+    <description>Recent content on YoctoApps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>webmaster@yoctoapps.com (Ryan McCardle)</managingEditor>
+    <webMaster>webmaster@yoctoapps.com (Ryan McCardle)</webMaster>
+    <atom:link href="https://ryanmccardle.github.io/yoctoapps/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://ryanmccardle.github.io/yoctoapps/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
+      <guid>https://ryanmccardle.github.io/yoctoapps/contact-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://ryanmccardle.github.io/yoctoapps/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
+      <guid>https://ryanmccardle.github.io/yoctoapps/privacy-policy/</guid>
+      <description>&lt;p&gt;No personal information is collected by me without your explicit consent. This can include your email address and name, and any details you choose to share via the contact form on the website, in-app contact form, or support email addresses. We will never use this information for marketing purposes, or share it with third parties, and will destroy any information we hold on you at your request via support@yoctoapps.com.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I do use a number of trusted third party services to give you the best experience, these include:&lt;/p&gt;
+
+&lt;p&gt;Apptentive, which provides a service to manage customer feedback and ratings, and in doing so collects some anonymized app usage information.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.apptentive.com/privacy/&#34;&gt;http://www.apptentive.com/privacy/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Crashlytics, which provides information on application crashes, as well as anonymized usage information, and conversion tracking.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://get.fabric.io/crashlytics#Privacy&#34;&gt;https://get.fabric.io/crashlytics#Privacy&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Silent Touch Timer</title>
+      <link>https://ryanmccardle.github.io/yoctoapps/silent-touchtimer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
+      <guid>https://ryanmccardle.github.io/yoctoapps/silent-touchtimer/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://ryanmccardle.github.io/yoctoapps/apps/silent-touchtimer&#34;&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/homepage_silenttimer_image.png&#34; alt=&#34;Silent TouchTimer Main Homepage Image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;great-for-giving-presentations&#34;&gt;Great for giving presentations!&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easily readable from 30 feet away on your iPhone, for even further try a giant iPad timer!&lt;/li&gt;
+&lt;li&gt;Doesn’t disturb your audience with any noise or vibration.&lt;/li&gt;
+&lt;li&gt;Doesn’t distract you with anything more than 5 seconds of a gently flashing screen.&lt;/li&gt;
+&lt;li&gt;Lets you know at a glance how far overtime you’ve gone – better talk faster next time!&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/jMT1qbAg08A&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h3 id=&#34;fantastic-for-using-productivity-techniques-without-disturbing-coworkers&#34;&gt;Fantastic for using productivity techniques without disturbing coworkers!&lt;/h3&gt;
+
+&lt;h3 id=&#34;simple-touchable-interface-doesn-t-get-in-your-way&#34;&gt;Simple, touchable interface doesn’t get in your way.&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Swipe left and right with one finger to change the seconds, two for minutes, three for hours.&lt;/li&gt;
+&lt;li&gt;Tap to start / pause.&lt;/li&gt;
+&lt;li&gt;Double tap to reset (double tap twice to reset to 0:00:00).&lt;/li&gt;
+&lt;li&gt;Thats it! It just works!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For full instructions and a tutorial video &lt;a href=&#34;https://ryanmccardle.github.io/yoctoapps/support/silent-touchtimer-instructions&#34;&gt;click here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Silent Touch Timer works best if you leave it open of course, but don’t worry if you close it – you’ll still get a notification when your time is up.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Silent Touch Timer Instructions</title>
+      <link>https://ryanmccardle.github.io/yoctoapps/silent-touchtimer-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
+      <guid>https://ryanmccardle.github.io/yoctoapps/silent-touchtimer-instructions/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/1-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;Swipe left and right with one finger to change the seconds.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/2-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;Swipe left and right with two fingers to change the minutes.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/3-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;Swipe left and right with three fingers to change the hours.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/4-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;Once the time is set, tap once to start counting down.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/5-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;Tap once again to stop.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/6-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;Tap twice quickly (double-tap) at any time (you don&amp;rsquo;t have to wait until the timer finishes and turns red) to reset the timer to where you started it.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/7-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;If you double-tap again (once you are back at the starting time) it resets it to zero.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;That&amp;rsquo;s the basics covered!&lt;/strong&gt;
+&lt;strong&gt;For the more advanced features new to this version lets continue:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/9.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;Tap the menu button in the top left, from here you can access advanced settings and support.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/10.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;If you want to have the screen change colour (great for speeches) when it reaches a certain point in the countdown touch the &amp;lsquo;One&amp;rsquo; or &amp;lsquo;Two&amp;rsquo; switches next to &amp;lsquo;Time Warnings&amp;rsquo; to turn them on.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/11.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;Just touch the time next to the warning you want to change. Then you can swipe left and right with one, two, and three fingers as before to set the warning time. Just tap when you have it set to what you want.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/12.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;Turn on the &amp;lsquo;Count Up&amp;rsquo; switch to, you guessed it, count up rather than down! The time warnings feature still works too.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://ryanmccardle.github.io/yoctoapps/img/13.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;And finally the help and support (which if you are are here, you probably already found!)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can also turn back on the tutorial prompts at the top of the screen in case you want a refresher (or turn them off if they are annoying).&lt;/li&gt;
+&lt;li&gt;Access our handy tutorial video.&lt;/li&gt;
+&lt;li&gt;Follow a link to these instructions.&lt;/li&gt;
+&lt;li&gt;And contact us for help (put your email address in if you want to be contacted there, otherwise just tap the &amp;lsquo;Email Us&amp;rsquo; button again in a day or two and you should hopefully see our reply there!)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Silent Touch Timer Tutorial Video</title>
+      <link>https://ryanmccardle.github.io/yoctoapps/redirect/silent_timer_tutorial_video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
+      <guid>https://ryanmccardle.github.io/yoctoapps/redirect/silent_timer_tutorial_video/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/-6ynI4PqRCQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
