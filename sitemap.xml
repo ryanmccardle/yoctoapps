@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ryanmccardle.github.io/yoctoapps/</loc>
+    <loc>/ryanmccardle.github.io/yoctoapps/</loc>
   </url>
   
   <url>
-    <loc>https://ryanmccardle.github.io/yoctoapps/contact-us/</loc>
+    <loc>/ryanmccardle.github.io/yoctoapps/contact-us/</loc>
   </url>
   
   <url>
-    <loc>https://ryanmccardle.github.io/yoctoapps/privacy-policy/</loc>
+    <loc>/ryanmccardle.github.io/yoctoapps/privacy-policy/</loc>
   </url>
   
   <url>
-    <loc>https://ryanmccardle.github.io/yoctoapps/redirect/</loc>
+    <loc>/ryanmccardle.github.io/yoctoapps/redirect/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ryanmccardle.github.io/yoctoapps/silent-touchtimer/</loc>
+    <loc>/ryanmccardle.github.io/yoctoapps/silent-touchtimer/</loc>
   </url>
   
   <url>
-    <loc>https://ryanmccardle.github.io/yoctoapps/silent-touchtimer-instructions/</loc>
+    <loc>/ryanmccardle.github.io/yoctoapps/silent-touchtimer-instructions/</loc>
   </url>
   
   <url>
-    <loc>https://ryanmccardle.github.io/yoctoapps/redirect/silent_timer_tutorial_video/</loc>
+    <loc>/ryanmccardle.github.io/yoctoapps/redirect/silent_timer_tutorial_video/</loc>
   </url>
   
 </urlset>
