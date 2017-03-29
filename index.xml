@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YoctoApps</title>
-    <link>http://yocotapps.com/index.xml</link>
+    <link>/yocotapps.com/index.xml</link>
     <description>Recent content on YoctoApps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>webmaster@yoctoapps.com (Ryan McCardle)</managingEditor>
     <webMaster>webmaster@yoctoapps.com (Ryan McCardle)</webMaster>
-    <atom:link href="http://yocotapps.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/yocotapps.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contact Us</title>
-      <link>http://yocotapps.com/contact-us/</link>
+      <link>/yocotapps.com/contact-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
-      <guid>http://yocotapps.com/contact-us/</guid>
+      <guid>/yocotapps.com/contact-us/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://yocotapps.com/privacy-policy/</link>
+      <link>/yocotapps.com/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
-      <guid>http://yocotapps.com/privacy-policy/</guid>
+      <guid>/yocotapps.com/privacy-policy/</guid>
       <description>&lt;p&gt;No personal information is collected by me without your explicit consent. This can include your email address and name, and any details you choose to share via the contact form on the website, in-app contact form, or support email addresses. We will never use this information for marketing purposes, or share it with third parties, and will destroy any information we hold on you at your request via support@yoctoapps.com.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -43,13 +43,13 @@
     
     <item>
       <title>Silent Touch Timer</title>
-      <link>http://yocotapps.com/silent-touchtimer/</link>
+      <link>/yocotapps.com/silent-touchtimer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
-      <guid>http://yocotapps.com/silent-touchtimer/</guid>
+      <guid>/yocotapps.com/silent-touchtimer/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;http://yocotapps.com/apps/silent-touchtimer&#34;&gt;&lt;img src=&#34;http://yocotapps.com/img/homepage_silenttimer_image.png&#34; alt=&#34;Silent TouchTimer Main Homepage Image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;yocotapps.com/apps/silent-touchtimer&#34;&gt;&lt;img src=&#34;yocotapps.com/img/homepage_silenttimer_image.png&#34; alt=&#34;Silent TouchTimer Main Homepage Image&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;great-for-giving-presentations&#34;&gt;Great for giving presentations!&lt;/h2&gt;
 
@@ -77,7 +77,7 @@
 &lt;li&gt;Thats it! It just works!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;For full instructions and a tutorial video &lt;a href=&#34;http://yocotapps.com/support/silent-touchtimer-instructions&#34;&gt;click here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For full instructions and a tutorial video &lt;a href=&#34;yocotapps.com/support/silent-touchtimer-instructions&#34;&gt;click here.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Silent Touch Timer works best if you leave it open of course, but don’t worry if you close it – you’ll still get a notification when your time is up.&lt;/p&gt;
 </description>
@@ -85,46 +85,46 @@
     
     <item>
       <title>Silent Touch Timer Instructions</title>
-      <link>http://yocotapps.com/silent-touchtimer-instructions/</link>
+      <link>/yocotapps.com/silent-touchtimer-instructions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
-      <guid>http://yocotapps.com/silent-touchtimer-instructions/</guid>
+      <guid>/yocotapps.com/silent-touchtimer-instructions/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;img src=&#34;http://yocotapps.com/img/1-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;yocotapps.com/img/1-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/th&gt;
 &lt;th&gt;Swipe left and right with one finger to change the seconds.&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/2-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/2-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;Swipe left and right with two fingers to change the minutes.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/3-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/3-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;Swipe left and right with three fingers to change the hours.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/4-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/4-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;Once the time is set, tap once to start counting down.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/5-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/5-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;Tap once again to stop.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/6-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/6-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;Tap twice quickly (double-tap) at any time (you don&amp;rsquo;t have to wait until the timer finishes and turns red) to reset the timer to where you started it.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/7-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/7-g.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;If you double-tap again (once you are back at the starting time) it resets it to zero.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -138,29 +138,29 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;&lt;img src=&#34;http://yocotapps.com/img/9.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;yocotapps.com/img/9.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/th&gt;
 &lt;th&gt;Tap the menu button in the top left, from here you can access advanced settings and support.&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/10.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/10.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;If you want to have the screen change colour (great for speeches) when it reaches a certain point in the countdown touch the &amp;lsquo;One&amp;rsquo; or &amp;lsquo;Two&amp;rsquo; switches next to &amp;lsquo;Time Warnings&amp;rsquo; to turn them on.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/11.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/11.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;Just touch the time next to the warning you want to change. Then you can swipe left and right with one, two, and three fingers as before to set the warning time. Just tap when you have it set to what you want.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/12.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/12.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;Turn on the &amp;lsquo;Count Up&amp;rsquo; switch to, you guessed it, count up rather than down! The time warnings feature still works too.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;http://yocotapps.com/img/13.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;yocotapps.com/img/13.png&#34; alt=&#34;alt text&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;And finally the help and support (which if you are are here, you probably already found!)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -179,10 +179,10 @@
     
     <item>
       <title>Silent Touch Timer Tutorial Video</title>
-      <link>http://yocotapps.com/redirect/silent_timer_tutorial_video/</link>
+      <link>/yocotapps.com/redirect/silent_timer_tutorial_video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
-      <guid>http://yocotapps.com/redirect/silent_timer_tutorial_video/</guid>
+      <guid>/yocotapps.com/redirect/silent_timer_tutorial_video/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/-6ynI4PqRCQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;

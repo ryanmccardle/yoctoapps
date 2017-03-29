@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yocotapps.com/</loc>
+    <loc>/yocotapps.com/</loc>
   </url>
   
   <url>
-    <loc>http://yocotapps.com/contact-us/</loc>
+    <loc>/yocotapps.com/contact-us/</loc>
   </url>
   
   <url>
-    <loc>http://yocotapps.com/privacy-policy/</loc>
+    <loc>/yocotapps.com/privacy-policy/</loc>
   </url>
   
   <url>
-    <loc>http://yocotapps.com/redirect/</loc>
+    <loc>/yocotapps.com/redirect/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yocotapps.com/silent-touchtimer/</loc>
+    <loc>/yocotapps.com/silent-touchtimer/</loc>
   </url>
   
   <url>
-    <loc>http://yocotapps.com/silent-touchtimer-instructions/</loc>
+    <loc>/yocotapps.com/silent-touchtimer-instructions/</loc>
   </url>
   
   <url>
-    <loc>http://yocotapps.com/redirect/silent_timer_tutorial_video/</loc>
+    <loc>/yocotapps.com/redirect/silent_timer_tutorial_video/</loc>
   </url>
   
 </urlset>
