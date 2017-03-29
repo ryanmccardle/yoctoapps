@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redirects on YoctoApps</title>
-    <link>/ryanmccardle.github.io/yoctoapps/redirect/index.xml</link>
+    <link>https://ryanmccardle.github.io/yoctoapps/redirect/index.xml</link>
     <description>Recent content in Redirects on YoctoApps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>webmaster@yoctoapps.com (Ryan McCardle)</managingEditor>
     <webMaster>webmaster@yoctoapps.com (Ryan McCardle)</webMaster>
-    <atom:link href="/ryanmccardle.github.io/yoctoapps/redirect/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ryanmccardle.github.io/yoctoapps/redirect/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Silent Touch Timer Tutorial Video</title>
-      <link>/ryanmccardle.github.io/yoctoapps/redirect/silent_timer_tutorial_video/</link>
+      <link>https://ryanmccardle.github.io/yoctoapps/redirect/silent_timer_tutorial_video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>webmaster@yoctoapps.com (Ryan McCardle)</author>
-      <guid>/ryanmccardle.github.io/yoctoapps/redirect/silent_timer_tutorial_video/</guid>
+      <guid>https://ryanmccardle.github.io/yoctoapps/redirect/silent_timer_tutorial_video/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/-6ynI4PqRCQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
